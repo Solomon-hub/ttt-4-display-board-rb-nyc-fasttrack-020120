@@ -9,7 +9,7 @@ end
 
 display_board(board)  
 
-board1 = [" "," "," "," ","X "," "," "," "," "]
+board1 = [" "," "," "," ","X"," "," "," "," "]
 
 display_board(board1)
 
